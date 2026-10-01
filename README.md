@@ -29,8 +29,8 @@ A storefront for hunting apparel and lighting — layering kits, terrain-based f
 **[MERN-Ecommerce-app](https://github.com/DanyZein/MERN-Ecommerce-app)** · <sub>MERN · TypeScript</sub><br/>
 Multi-vendor marketplace with stores, products, orders, and reviews. A Zustand-powered client over an Express and Mongoose API.
 
-**[notes-app](https://github.com/DanyZein/notes-app)** · <sub>Express · Prisma · React</sub><br/>
-Full-stack notes app with JWT authentication and bcrypt password hashing, backed by six Prisma migrations.
+**[business-leads](https://github.com/DanyZein/business-leads)** · <sub>Node.js · Google Places API</sub><br/>
+Finds local businesses with no website — or only a social page — and appends them to a Google Sheet as outreach leads. Resumable runs, per-request cost tracking, 2,000+ US cities.
 
 ---
 
