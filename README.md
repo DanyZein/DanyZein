@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Daniel Zeineldine</h1>
+<h1 align="center">Hi there 👋, I'm Dany Zein</h1>
 
 <p align="center">
   <em>Web Developer • Designer • Music Producer • Baker • Computer Science Student</em>
@@ -44,5 +44,5 @@
 ---
 
 ### 📊 My GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyZeineldine&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyZein&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
