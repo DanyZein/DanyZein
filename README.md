@@ -35,7 +35,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://github.com/DanielZeineldine"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://github.com/DanyZein"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="http://www.instagram.com/danytb8"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/daniel-zeineldine"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.youtube.com/@danyzmusic"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
@@ -44,5 +44,5 @@
 ---
 
 ### 📊 My GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielZeineldine&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyZeineldine&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
