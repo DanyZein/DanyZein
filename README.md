@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dany Zein 👋</h1>
 
 <p align="center">
-  <em>Full-stack developer — React · Next.js · Node · TypeScript</em><br/>
+  <em>Full-stack developer · React · Next.js · Node · TypeScript</em><br/>
   <sub>I build small, sharp tools that solve a real problem.</sub>
 </p>
 
@@ -9,36 +9,36 @@
 
 ### About
 
-I build web apps end to end — React and Next.js on the front, Node or WordPress behind — and I run the infrastructure they sit on: a self-hosted Ubuntu server with Docker, Cloudflare Tunnel and a local LLM.
+I build web apps end to end: React and Next.js on the front, Node or WordPress behind. I also run the infrastructure they sit on, which is a self-hosted Ubuntu server with Docker, Cloudflare Tunnel and a local LLM.
 
 - 🔭 **Currently:** fine-tuning a 3B model, and shipping client sites
-- 💼 **Freelance:** 7 client sites built end to end, 5 live — [danycrafts.com](https://danycrafts.com)
+- 💼 **Freelance:** 7 client sites built end to end, 5 live. [danycrafts.com](https://danycrafts.com)
 - 🧠 **Going deeper on:** LLM fine-tuning and evaluation, and advanced Next.js
 - 🎹 **Also:** music producer (20k+ on YouTube) and the family bakery
 - 📫 **Reach me:** dany@danycrafts.com
-- ⚡ Fun fact: I might secretly be Spiderman — don't tell anyone 🕷️
+- ⚡ Fun fact: I might secretly be Spiderman. Don't tell anyone 🕷️
 
 ---
 
 ### 🚀 Featured Work
 
-**[llm-search-bridge](https://github.com/DanyZein/llm-search-bridge)** · <sub>Python — standard library only</sub><br/>
+**[llm-search-bridge](https://github.com/DanyZein/llm-search-bridge)** · <sub>Python, standard library only</sub><br/>
 Exposes an LLM provider's built-in web search as a plain search API, so a self-hosted Open WebUI needs no third-party search vendor. One file, 64 offline tests, hardened systemd unit, MIT licensed.
 
 **[business-leads](https://github.com/DanyZein/business-leads)** · <sub>Node.js · Google Places API</sub><br/>
-Finds local businesses with no website — or only a social page — and appends them to a Google Sheet as outreach leads. Resumable runs with checkpointed state, cross-run deduplication, and per-request cost tracking across 2,097 US cities.
+Finds local businesses with no website, or only a social page, and appends them to a Google Sheet as outreach leads. Resumable runs with checkpointed state, cross-run deduplication, and per-request cost tracking across 2,097 US cities.
 
 **[hunting-gear-store](https://github.com/DanyZein/hunting-gear-store)** · <sub>Next.js · TypeScript</sub><br/>
-A storefront for hunting apparel and lighting — layering kits, terrain-based filtering, and a live headlamp beam demo. Statically exported, URL-driven state, content layer built to swap in a CMS.
+A storefront for hunting apparel and lighting: layering kits, terrain-based filtering, and a live headlamp beam demo. Statically exported, URL-driven state, content layer built to swap in a CMS.
 
 **Orbit** · <sub>React · Node · self-hosted</sub><br/>
-A personal analytics app I designed and run in production: a React front end over a dependency-free Node JSON API with atomic writes and rotating backups, on systemd behind Cloudflare Access. → **[orbit.danycrafts.com](https://orbit.danycrafts.com)**
+A personal analytics app I designed and run in production. A React front end over a dependency-free Node JSON API with atomic writes and rotating backups, on systemd behind Cloudflare Access. → **[orbit.danycrafts.com](https://orbit.danycrafts.com)**
 
 ---
 
 ### 🧪 What I'm Building Now
 
-**A LoRA fine-tune of Qwen2.5-3B-Instruct.** QLoRA on a 6GB laptop GPU with Unsloth, TRL and PEFT — training 0.97% of the model's parameters and cutting held-out perplexity 111× against the base model. Then discovering the metric was the wrong target, and tracing it back to the shape of the training data.
+**A LoRA fine-tune of Qwen2.5-3B-Instruct.** QLoRA on a 6GB laptop GPU with Unsloth, TRL and PEFT. Trained 0.97% of the model's parameters and cut held-out perplexity 111× against the base model. Then discovered the metric was the wrong target, and traced it back to the shape of the training data.
 
 ---
 
