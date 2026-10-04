@@ -31,8 +31,8 @@ Finds local businesses with no website, or only a social page, and appends them 
 **[hunting-gear-store](https://github.com/DanyZein/hunting-gear-store)** · <sub>Next.js · TypeScript</sub><br/>
 A storefront for hunting apparel and lighting: layering kits, terrain-based filtering, and a live headlamp beam demo. Statically exported, URL-driven state, content layer built to swap in a CMS.
 
-**Orbit** · <sub>React · Node · self-hosted</sub><br/>
-A personal analytics app I designed and run in production. A React front end over a dependency-free Node JSON API with atomic writes and rotating backups, on systemd behind Cloudflare Access. → **[orbit.danycrafts.com](https://orbit.danycrafts.com)**
+**[Orbit](https://github.com/DanyZein/orbit)** · <sub>React · Node · self-hosted</sub><br/>
+A private hangout ledger I designed and run in production. A React front end over a dependency-free Node JSON API with atomic writes and rotating backups, on systemd behind Cloudflare Access.
 
 ---
 
