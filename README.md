@@ -10,7 +10,7 @@
 ### About
 
 - 🌍 Based in **Lebanon**
-- 🧠 CS student, currently going deeper on **Advanced React & Next.js**
+- 🧠 Currently going deeper on **LLM fine-tuning and Advanced Next.js**
 - 🎹 Music producer with **20k+ subscribers** on YouTube
 - 🍰 Working with my family's bakery
 - 🤝 Open to collaborating on React, Next.js, and Express projects
